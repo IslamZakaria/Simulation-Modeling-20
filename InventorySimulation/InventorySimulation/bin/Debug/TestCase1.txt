@@ -1,0 +1,29 @@
+﻿OrderUpTo
+11
+
+ReviewPeriod
+5
+
+StartInventoryQuantity
+3
+
+StartLeadDays
+2
+
+StartOrderQuantity
+8
+ 
+NumberOfDays
+25
+
+DemandDistribution
+0, 0.1
+1, 0.25
+2, 0.35
+3, 0.21
+4, 0.09
+
+LeadDaysDistribution
+1, 0.6
+2, 0.3
+3, 0.1

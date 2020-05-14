@@ -1,0 +1,32 @@
+D:\College Work\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+D:\College Work\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+D:\College Work\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.csprojResolveAssemblyReference.cache
+D:\College Work\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+D:\College Work\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+C:\Users\Alaa\Downloads\Lab 11\Lab 11\[tas]_template\inventorysimulation\InventoryModels\obj\Debug\InventoryModels.csprojResolveAssemblyReference.cache
+C:\Users\Alaa\Downloads\Lab 11\Lab 11\[tas]_template\inventorysimulation\InventoryModels\obj\Debug\InventoryModels.dll
+C:\Users\Alaa\Downloads\Lab 11\Lab 11\[tas]_template\inventorysimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+C:\Users\Alaa\Downloads\Lab 11\Lab 11\[tas]_template\inventorysimulation\InventoryModels\bin\Debug\InventoryModels.dll
+C:\Users\Alaa\Downloads\Lab 11\Lab 11\[tas]_template\inventorysimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 11\[TAs]_Template\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 11\[TAs]_Template\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 11\[TAs]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 11\[TAs]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+C:\Users\Osama\Desktop\Task 4\[TAs]_Template\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+C:\Users\Osama\Desktop\Task 4\[TAs]_Template\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+C:\Users\Osama\Desktop\Task 4\[TAs]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+C:\Users\Osama\Desktop\Task 4\[TAs]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+C:\Users\Islam\Downloads\Lab 10-20191213T180311Z-001\Lab 10\[Students]_Template\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+C:\Users\Islam\Downloads\Lab 10-20191213T180311Z-001\Lab 10\[Students]_Template\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+C:\Users\Islam\Downloads\Lab 10-20191213T180311Z-001\Lab 10\[Students]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Downloads\Lab 10-20191213T180311Z-001\Lab 10\[Students]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+C:\Users\Islam\Downloads\Lab 10-20191213T180311Z-001\Lab 10\[Students]_Template\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+D:\FCIS\4th Year\CS\Modeling_simulation\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+D:\FCIS\4th Year\CS\Modeling_simulation\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+D:\FCIS\4th Year\CS\Modeling_simulation\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.csprojResolveAssemblyReference.cache
+D:\FCIS\4th Year\CS\Modeling_simulation\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+D:\FCIS\4th Year\CS\Modeling_simulation\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
